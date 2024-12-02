@@ -42,7 +42,7 @@ To analyze consumer purchasing behavior using an e-commerce dataset, exploring p
 ### **Deployed Application:**  
 
 **Access the deployed Streamlit app here:**  
-[**E-Commerce Consumer Behavior Analysis App**](https://your-deployed-app-link.com)  
+[**E-Commerce Consumer Behavior Analysis App**](https://e-commerce-consumer-behavior-analysis.streamlit.app/)  
 
 ---
 
