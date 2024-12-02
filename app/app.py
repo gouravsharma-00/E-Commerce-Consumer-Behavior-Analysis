@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("ECommerce_consumer_behaviour.csv")
+df = pd.read_csv("app/ECommerce_consumer_behaviour.csv")
 # Streamlit App
 st.title("E-commerce Sales Analysis Dashboard")
 
